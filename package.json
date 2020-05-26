@@ -1,0 +1,12 @@
+{
+  "name": "agenda-lp3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:joaovictorpsantos/agenda-lp3.git",
+  "author": "João Victor Pereir Santos <joaovictorsantoscpv@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.2.1"
+  }
+}
